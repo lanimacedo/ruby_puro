@@ -1,4 +1,4 @@
-# para criar um hash pode ser utilizado os dois comando abaixo
+# para criar um hash pode ser utilizado os dois comandos abaixo
 capitais = Hash.new
 # capitais = {}
 
